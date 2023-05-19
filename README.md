@@ -22,3 +22,13 @@ Imagine you are evaluating how enjoyable a video streaming app is. Design aspect
 f a product is useful, that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. It’s important to note that, while similar, useful and usable have different meanings. A product that is useful isn’t always usable. The same is true for the opposite. The distinction between the two is that usability refers to the product working well and being easy to use, while usefulness refers directly to the ability to solve user problems. As you evaluate how useful a product’s UX is, you can ask questions like: Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal? These questions can help you determine whether the design delivers a useful experience. 
 
 Imagine you’re evaluating how useful a banking app is. Users typically download these apps because they need a place to manage their money. With this in mind, aspects of the app that might be considered useful are features that can be used to transfer money between accounts and pay bills.
+
+### Summary
+
+Usable—the design, structure, and purpose of the product are clear and easy to use
+
+Equitable—the designs are helpful and marketable to people with diverse abilities and backgrounds
+
+Enjoyable—the design delights the user and fosters a positive connection with them by addressing user thoughts and feelings
+
+Useful—the design solves user problems
