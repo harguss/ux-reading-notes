@@ -23,6 +23,7 @@ f a product is useful, that means it solves user problems. In other words, the d
 
 Imagine you’re evaluating how useful a banking app is. Users typically download these apps because they need a place to manage their money. With this in mind, aspects of the app that might be considered useful are features that can be used to transfer money between accounts and pay bills.
 
+
 ### Summary
 
 Usable—the design, structure, and purpose of the product are clear and easy to use
@@ -32,3 +33,36 @@ Equitable—the designs are helpful and marketable to people with diverse abilit
 Enjoyable—the design delights the user and fosters a positive connection with them by addressing user thoughts and feelings
 
 Useful—the design solves user problems
+
+
+## Week-Two
+
+**Get to know the User**
+
+### Who is my user?
+A user is a person who is trying to solve a problem and is looking for a product or service to help them solve it. The user experience is the journey that the user takes with that product or service. As a UX designer, your goal is to keep the user at the center of every decision you make, and to do that, you need to get to know your user.
+To reach as many users as possible, you’ll consider questions such as these as part of your user research approach:
+
+Do my users have impairments or disabilities to consider–whether temporary, situational, or permanent?
+
+How familiar are my users with technology?
+
+How are my users accessing the product or service?
+
+Where and when are my users accessing the product or service?
+
+Have I considered all my potential users?
+
+The goal for user research is to get the widest possible selection of potential users to include as research participants. Make sure to consider income level; demographic data such as age, gender, and ethnicity; educational background; and geographic location. 
+
+### Do my users have impairments or disabilities to consider?
+
+When it comes to designing for this emerging population of potential users, their level of digital literacy is a key consideration. The American Library Association defines digital literacy as “the ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills.” People with limited digital literacy might not be familiar with certain design patterns, calls to action, or icons that those of us with more online experience take for granted. For example, they might not know what “swipe” means in relation to a touchscreen. They may not even know what a touchscreen is. This can affect their confidence and willingness to explore new technology.
+
+### How are my users accessing the product or service?
+Some users might not have reliable or unlimited access to the internet. This might be because the data they have purchased has run out or because their network coverage is inconsistent or sporadic. As a UX designer, you should try to find ways to take the offline experience into account as well. For more examples of ways you can create a rich offline experience for your users, check out the article Offline UX design guidelines on web.dev.
+
+### Where are my users accessing the product or service?
+
+
+**Your goal as a UX designer is to solve a user problem by creating a design that makes every user feel like you designed the experience just for them no matter who they are, where they live, how much they earn, what their abilities are, or how highly they're educated. **
