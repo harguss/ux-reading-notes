@@ -66,3 +66,35 @@ Some users might not have reliable or unlimited access to the internet. This mig
 
 
 **Your goal as a UX designer is to solve a user problem by creating a design that makes every user feel like you designed the experience just for them no matter who they are, where they live, how much they earn, what their abilities are, or how highly they're educated. **
+
+There’s a variety of different qualitative and quantitative research methods out there. If you’ve been doing the CareerFoundry UX Design course, you may have already covered some of the list below in your course.
+
+### Qualitative Methods:
+
+#### Guerrilla testing: 
+Fast and low-cost testing methods such as on-the-street videos, field observations, reviews of paper sketches, or online tools for remote usability testing.
+#### Interviews:
+One-on-one interviews that follow a preset selection of questions prompting the user to describe their interactions, thoughts, and feelings in relation to a product or service, or even the environment of the product/service.
+#### Focus groups:
+Participatory groups that are led through a discussion and activities to gather data on a particular product or service. If you’ve ever watched Mad Men you’ll be familiar with the Ponds’ cold cream Focus Group!
+#### Field Studies:
+Heading into the user’s environment and observing while taking notes (and photographs or videos if possible).
+In-lab testing: Observations of users completing particular tasks in a controlled environment. Users are often asked to describe out loud their actions, thoughts, and feelings and are videoed for later analysis
+#### Card sorting:
+Used to help understand Information Architecture and naming conventions better. Can be really handy to sort large amounts of content into logical groupings for users.
+
+### Quantitative Methods:
+
+#### User surveys:
+Questionnaires with a structured format, targeting your specific user personas. These can be a great way to get a large amount of data. Surveymonkey is a popular online tool.
+#### First click testing:
+A test set up to analyse what a user would click on first in order to complete their intended task. This can be done with paper prototypes, interactive wireframes or an existing website.
+#### Eye tracking:
+Measures the gaze of the eye, allowing the observer to ‘see’ what the user sees. This can be an expensive test and heatmapping is a good cheaper alternative.
+#### Heatmapping:
+Visual mapping of data showing how users click and scroll through your prototype or website. The most well-known online tool to integrate would be Crazyegg.
+#### Web analytics:
+Data that is gathered from a website or prototype it is integrated with, allowing you to see the demographics of users, page views, and funnels of how users move through your site and where they drop off. The most well-known online tool to integrate would be Google Analytics.
+#### A/B testing:
+Comparing two versions of a web page to see which one converts users more. This is a great way to test button placements, colors, banners, and other elements in your UI.
+
