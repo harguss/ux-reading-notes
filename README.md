@@ -112,7 +112,8 @@ During the empathize phase, your primary goal is to learn more about the user an
 Your user research might include user surveys, interviews, and observation sessions, and you might also need to conduct some research on the competitors’ products to determine how your user frames competitors’ products as part of their daily life and daily problem-solving.
 
 #### 2.Define
-In the define phase, you’ll analyze your research findings from the empathize phase and determine which user problems are the most important ones to solve, and why. This will drive you toward a clear goal for the design of the product.
+In the define phase, you’ll analyze your research findings from the empathize phase and determine which **user problems are the most important ones to solve, and why.**
+This will drive you toward a clear goal for the design of the product.
 
 The most important outcome of this phase is a clear problem statement, which is a description of the user’s need that your designs will address. You might also develop a value proposition, which is a summary of why your user would or should use the product or service that you’re designing.
 
@@ -126,6 +127,38 @@ Prototyping and testing are  interconnected, which means that you’ll  test you
 For example, you might test the concepts behind your design by presenting users with a simple sketch, wireframe, or a sitemap. Taking what you learned, you might iterate on that design to a more detailed design on paper (known as a low-fidelity prototype) and conduct another round of user testing.  At some point, you’ll iterate the design again into a working, interactive model using a software program (also known as a high-fidelity prototype) and test that as well. You might also consider testing more than one prototype at the same time to get feedback on multiple solutions, or testing the same prototype on multiple platforms, such as a laptop, tablet, and smartphone.
 
 The goal of testing prototypes is to  continue to refine the prototype as you gain insight into whether the design for your product or service is easy to use and solves the user’s problem. At some point, you’ll finalize a prototype, and then you’ll provide it to developers, who will then turn your design into a product.
+
+#### Key takeaways
+The Design Thinking framework is only one type of framework that UX designers use to organize their approach to designs.
+
+1.Focus on the user.
+
+2.Create solutions that address the user’s problems.
+
+3.Collaborate with teammates across departments.
+
+4.Validate your designs.
+
+5.Iterate as needed to design the right user experience.
+
+**More Resources**
+
+Design Thinking 101 by Nielsen Norman Group
+
+The Design Thinking Process - An Introduction (2021) by CareerFoundry
+
+UX Design Process: Everything You Need to Know by Adobe
+
+What is Design Thinking? by The Interaction Design Foundation
+
+Tim Brown https://youtu.be/UAinLaT42xY
+Design Kit https://www.designkit.org/
+Design Thinking-The Ultimate Guide https://www.interaction-design.org/courses/design-thinking-the-ultimate-guide
+
+
+
+
+
 
 
 
