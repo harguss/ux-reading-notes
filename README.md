@@ -101,5 +101,9 @@ Comparing two versions of a web page to see which one converts users more. This 
 ### UX Design Framework
 In the world of UX design, a framework is a conceptual tool that provides guidance on the best practices and processes for solving  problems and building solutions that solve the problems of real users. Frameworks provide structure for the design process and foster collaboration, which can spark innovations. Most UX designers follow a specific framework or process when approaching their work, from the first idea all the way through to the final launch of a product.
 
+#### Design Thinking Framework
+ The Design Thinking framework is a user-centered approach to problem-solving that includes activities like research, prototyping, and testing to help you understand who your user is, what their problems are, and what your design should include.
+ 
+
 
 
