@@ -116,6 +116,19 @@ In the define phase, you’ll analyze your research findings from the empathize 
 
 The most important outcome of this phase is a clear problem statement, which is a description of the user’s need that your designs will address. You might also develop a value proposition, which is a summary of why your user would or should use the product or service that you’re designing.
 
+#### 3.Ideate
+Come up with as many desings as possible, the most obvious soultion is not always the best so, brainstorm with other team members. Pass no judgment during this phase, collect as many idesas as possible. After brainstorming, analyze the potential solutions, decide witch are the best to pursue as prototypes use user research to help narrow down the ideas. Create user flows?
+
+#### 4.Prototype and Test
+Produce an early model that can be used for functionality and testing. The testing phase is critical to deleloping the right soution to address your users problem.
+
+Prototyping and testing are  interconnected, which means that you’ll  test your designs at each stage of prototype development rather than waiting to test until after the working prototype is complete. If the design is too polished the first time you present it to users, you might not get as much feedback. Think about ways to include testing throughout the design process, so that you’re iterating your designs based on user feedback instead of other reasons.
+For example, you might test the concepts behind your design by presenting users with a simple sketch, wireframe, or a sitemap. Taking what you learned, you might iterate on that design to a more detailed design on paper (known as a low-fidelity prototype) and conduct another round of user testing.  At some point, you’ll iterate the design again into a working, interactive model using a software program (also known as a high-fidelity prototype) and test that as well. You might also consider testing more than one prototype at the same time to get feedback on multiple solutions, or testing the same prototype on multiple platforms, such as a laptop, tablet, and smartphone.
+
+The goal of testing prototypes is to  continue to refine the prototype as you gain insight into whether the design for your product or service is easy to use and solves the user’s problem. At some point, you’ll finalize a prototype, and then you’ll provide it to developers, who will then turn your design into a product.
+
+
+
 
 
 
