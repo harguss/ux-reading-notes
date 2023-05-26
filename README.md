@@ -104,6 +104,17 @@ In the world of UX design, a framework is a conceptual tool that provides guidan
 #### Design Thinking Framework
  The Design Thinking framework is a user-centered approach to problem-solving that includes activities like research, prototyping, and testing to help you understand who your user is, what their problems are, and what your design should include.
  
+ **The Design Thinking framework involves the following phases: empathize, define, ideate, prototype, and test.**
+ 
+ #### Empathize
+During the empathize phase, your primary goal is to learn more about the user and their problems, wants, and needs, and the environment or context in which they’ll experience your design. The most important part of the empathize phase is to step away from your assumptions and guesses and let your research findings inform your decision-making in later design phases.
+
+Your user research might include user surveys, interviews, and observation sessions, and you might also need to conduct some research on the competitors’ products to determine how your user frames competitors’ products as part of their daily life and daily problem-solving.
+
+
+
+
+ 
 
 
 
