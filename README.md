@@ -98,3 +98,8 @@ Data that is gathered from a website or prototype it is integrated with, allowin
 #### A/B testing:
 Comparing two versions of a web page to see which one converts users more. This is a great way to test button placements, colors, banners, and other elements in your UI.
 
+### UX Design Framework
+In the world of UX design, a framework is a conceptual tool that provides guidance on the best practices and processes for solving  problems and building solutions that solve the problems of real users. Frameworks provide structure for the design process and foster collaboration, which can spark innovations. Most UX designers follow a specific framework or process when approaching their work, from the first idea all the way through to the final launch of a product.
+
+
+
