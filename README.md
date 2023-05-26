@@ -155,6 +155,9 @@ Tim Brown https://youtu.be/UAinLaT42xY
 Design Kit https://www.designkit.org/
 Design Thinking-The Ultimate Guide https://www.interaction-design.org/courses/design-thinking-the-ultimate-guide
 
+## Platforms
+
+
 
 
 
