@@ -156,7 +156,13 @@ Design Kit https://www.designkit.org/
 Design Thinking-The Ultimate Guide https://www.interaction-design.org/courses/design-thinking-the-ultimate-guide
 
 ## Platforms
+**Remember the Next Billion Users we discussed earlier?** As those users come online, they're mostly accessing the internet from mobile devices. This means the amount of desktop web traffic compared to mobile web traffic will continue to shift. It's important for UX designers to consider mobile users' connectivity limitations, like slower processing speeds and longer load times. To be inclusive, we need to design for all types of phones, whether they cost $50 or $500
 
+### Best practices when designing for mobile
+
+1. Call-to-action buttons should be placed front and center, allowing the user to easily complete the desired task, like joining an email list or adding an item to their shopping cart.
+2. Navigation menus should be short and simple. We want to simplify the user experience on mobile. So menu options should only highlight the core functions of the product. 
+3. Use gestures that users already do, like tapping and swiping. Gestures should be intuitive and familiar to users. 4. Design for both directions a phone might be held. We need to consider the vertical portrait view of a mobile phone and the horizontal landscape view. We want users to have an effective experience no matter how they hold their phone. 5. Reduce visual clutter. Mobile phones have smaller screen sizes, so it's important to keep the visual experience simple.
 
 
 
