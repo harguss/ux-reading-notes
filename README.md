@@ -182,9 +182,7 @@ Smart displays
 
 ### Design considerations
 
-Screen size
-Interaction
-Content layout
+Screen size ||  Interaction. || Content layout
 
 
 
