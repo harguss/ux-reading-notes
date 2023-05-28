@@ -164,6 +164,28 @@ Design Thinking-The Ultimate Guide https://www.interaction-design.org/courses/de
 2. Navigation menus should be short and simple. We want to simplify the user experience on mobile. So menu options should only highlight the core functions of the product. 
 3. Use gestures that users already do, like tapping and swiping. Gestures should be intuitive and familiar to users. 4. Design for both directions a phone might be held. We need to consider the vertical portrait view of a mobile phone and the horizontal landscape view. We want users to have an effective experience no matter how they hold their phone. 5. Reduce visual clutter. Mobile phones have smaller screen sizes, so it's important to keep the visual experience simple.
 
+## Different Platforms
+
+Desktop computers
+
+Laptop computers
+
+Mobile phones
+
+Tablets
+
+Wearables, like smart watches
+
+TVs
+
+Smart displays
+
+### Design considerations
+
+Screen size
+Interaction
+Content layout
+
 
 
 
