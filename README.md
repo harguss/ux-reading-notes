@@ -195,9 +195,15 @@ Before launching into a design sprint, you need to review your design challenge 
 
 3. Is the design challenge's scope wide enough for a sprint? If you answered yes to      any one of these questions, a design sprint might be the right move.
 
-Design sprints generally include five phases: understand, ideate, decide, prototype, and test. 
+Design sprints generally include five phases: understand, ideate, decide, prototype, and test.
 
+### Phases of a design sprint
 
+1. Understand- time to engage with experts in other departments and industries, this   to to clearly understand the design challenges.
+2. Ideate- come up with ideas and solutions
+3. Decide- on mosst feasible solutoon
+4. Prototype- something that works so you can test
+5. Test- put prototype in front of users
 
 
 
