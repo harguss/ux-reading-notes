@@ -184,6 +184,19 @@ Smart displays
 
 Screen size ||  Interaction. || Content layout
 
+## Week Three
+
+### Design Sprints
+
+Before launching into a design sprint, you need to review your design challenge and ask yourself these key questions:
+1. Are there many potential solutions to your design challenge?
+
+2. Does a design challenge require people from cross-functional teams to weigh in?
+
+3. Is the design challenge's scope wide enough for a sprint? If you answered yes to      any one of these questions, a design sprint might be the right move.
+
+Design sprints generally include five phases: understand, ideate, decide, prototype, and test. 
+
 
 
 
